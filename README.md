@@ -59,3 +59,6 @@
 
 Maxim Stafeev | issedafuu  
 Студент Яндекс.Практикума
+
+*ссылка на репозиторий*
+https://github.com/issedafuu/slozhno-sosredotochitsya-fd
