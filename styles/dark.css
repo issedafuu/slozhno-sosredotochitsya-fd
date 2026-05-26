@@ -4,8 +4,6 @@
   --accent-color: #FF0070;
   --main-title-color: #DB00FF;
   --text-color: #F1B2CE;
-  --bold-text-weight: 700;
-  --def-font-size: 18px;
   --decor-color: #FF0070;
   --decor-text-color: #000028;
 }
@@ -21,8 +19,6 @@
     --accent-color: #FF0070;
     --main-title-color: #DB00FF;
     --text-color: #F1B2CE;
-    --bold-text-weight: 700;
-    --def-font-size: 18px;
     --decor-color: #FF0070;
     --decor-text-color: #000028;
   }
